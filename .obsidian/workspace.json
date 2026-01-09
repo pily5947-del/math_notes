@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_このノートについて.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_このノートについて"
+              "title": "README"
             }
           }
         ]
@@ -184,11 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b038f8071e9b6d7",
+  "active": "0275e61b840ae5c6",
   "lastOpenFiles": [
+    "01_このノートについて.md",
     "1_スタート.md",
     "README.md",
-    "01_このノートについて.md",
     "05_参考文献.md",
     "06_学習記録.md",
     "Untitled.md",

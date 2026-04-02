@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "c696cdd4d6926d81",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0275e61b840ae5c6",
+  "active": "c696cdd4d6926d81",
   "lastOpenFiles": [
     "01_このノートについて.md",
     "1_スタート.md",

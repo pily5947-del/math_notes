@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "c696cdd4d6926d81",
+            "id": "2b604b7e65a6fe61",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.11.4"
+                "currentVersion": "1.12.7"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "title": "リリースノート 1.12.7"
             }
           }
         ],
@@ -187,17 +187,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新規ベースを作成": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c696cdd4d6926d81",
+  "active": "2b604b7e65a6fe61",
   "lastOpenFiles": [
     "01_このノートについて.md",
     "1_スタート.md",
